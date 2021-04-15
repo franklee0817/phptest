@@ -1,0 +1,9 @@
+module TestUnits
+{
+	interface test
+	{
+		string ping(string req);
+	};
+
+};
+
