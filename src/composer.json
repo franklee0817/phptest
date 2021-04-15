@@ -1,5 +1,5 @@
 {
-    "name": "demo/phptars-helloobj",
+    "name": "test_units/php-testoobj",
     "description": "php tars test",
     "require": {
         "phptars/tars-server": "~0.2",
@@ -10,7 +10,7 @@
     },
     "autoload": {
         "psr-4": {
-            "PHPTars\\": "./"
+            "php\\": "./"
         }
     },
     "minimum-stability": "stable",

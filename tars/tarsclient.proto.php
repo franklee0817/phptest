@@ -1,12 +1,12 @@
 <?php
 return array(
-    'appName' => 'Demo',
-    'serverName' => 'PHPTars',
-    'objName' => 'HelloObj',
+    'appName' => 'TestUnits',
+    'serverName' => 'php',
+    'objName' => 'testObj',
     'withServant' => true,
     'tarsFiles' => array(
         './php.tars',
     ),
     'dstPath' => '../src/servant',
-    'namespacePrefix' => 'PHPTars\servant',
+    'namespacePrefix' => 'php\servant',
 );
